@@ -6,7 +6,7 @@ Progetto d'esame per il corso di **Machine Learning**. L'obiettivo del progetto 
 * **Good (`g`)**: Segnali che mostrano prove di strutture libere nella ionosfera.
 * **Bad (`b`)**: Segnali che non attraversano la ionosfera.
 
-## 🛠️ Tech Stack & Librerie
+## Tech Stack & Librerie
 * **Linguaggio:** Python 3.x
 * **Data Manipulation & Viz:** Pandas, NumPy, Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn
@@ -34,5 +34,5 @@ Progetto d'esame per il corso di **Machine Learning**. L'obiettivo del progetto 
    * **Stratified K-Fold Cross-Validation** per evitare overfitting e garantire la rappresentatività delle classi nei fold.
    * Valutazione tramite **Accuracy, Precision, Recall (Sensibilità)** e **Matrice di Confusione**.
 
-## 📊 Risultati Principali
+## Risultati Principali
 * Il modello con le migliori prestazioni generali è stato **[es. SVM con kernel RBF]**, ottenendo un'accuracy del **[es. 89%]** e un'ottima sensibilità nel rilevare la classe target.
